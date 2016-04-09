@@ -1,2 +1,5 @@
 # rxjava-polling-demo
+
 A trivial demonstration of polling-like behaviour using rxJava as the basis. 
+
+To see the polling behaviour in action run RxDemoTest::demoRx and watch the output.
